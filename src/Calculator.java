@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
     static Scanner scanner = new Scanner(System.in);
-
+//Разобрать принцип работы
     public static void main(String[] args) {
         int operand1 = nextInt();
         int operand2 = nextInt();
